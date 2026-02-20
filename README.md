@@ -1,9 +1,9 @@
 ## Hi! I'm Kerttu 👋
-I am a junior software development student at Tallinn Industrial Education Center. Passionate about the IT field, especially software development and testing. I have currently completed various projects during my studies and I am looking forward to growing further.
+I am a junior software development student at TTHK. Passionate about the IT field, especially software development and testing. I have currently completed various projects during my studies and I am looking forward to growing further.
 
 Interested in:
 - Front-end development using React, JavaScript and HTML/CSS
-- Practicing backend development using .NET and C#
+- Practicing backend development using .NET/C# and Express.js
 - Software Testing to develop high-quality applications
 - Sharing my project progress on GitHub
 
@@ -19,11 +19,13 @@ backend development:
 - C#
 - SQL
 - Node.js
+- Express.js
   
 software testing:
 - swagger
 - postman
 - Unit tests
+- manual web application testing
 
 
 
