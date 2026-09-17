@@ -1,33 +1,31 @@
 ## Hi! I'm Kerttu 👋
-I am a junior software development student at TTHK. Passionate about the IT field, especially software development and testing. I have currently completed various projects during my studies and I am looking forward to growing further.
+Software Developer based in Estonia.
 
-Interested in:
-- Front-end development using React, JavaScript and HTML/CSS
-- Practicing backend development using .NET/C# and Express.js
-- Software Testing to develop high-quality applications
-- Sharing my project progress on GitHub
+I enjoy building web applications and developing practical software solutions. My experience includes both frontend and backend development, as well as software testing. Interested in opurtunities related to web development, full-stack development and data-analysis roles.
 
-## My skills:
-front-end development:
-- React.js
-- JavaScript
-- HTML/CSS
-- Tailwindcss/Bootstrap
-  
-backend development:
-- .NET
-- C#
-- SQL
-- Node.js
-- Express.js
-  
-software testing:
-- swagger
-- postman
-- Unit tests
-- manual web application testing
+## Technologies
 
+**Languages & Frameworks**
 
+* Python
+* C#
+* TypeScript
+* JavaScript
+* React
+* Next.js
+* FastAPI
+* .NET
 
+**Databases & Tools**
 
+* PostgreSQL
+* Microsoft SQL Server
+* Git & GitHub
+* GitLab
+* REST APIs
+* Swagger
+* Postman
+* Playwright
+* Selenium
 
+Learning by building!
